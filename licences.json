@@ -2,6 +2,6 @@
   "graceDays": 7,
   "installations": [
     {"code": "INM-CUG5-DLDC", "note": "Responsable", "active": true},
-    {"code": "INM-X9DX-JH4W", "note": "Morad", "active": false}
+    {"code": "INM-X9DX-JH4W", "note": "Morad", "active": true}
   ]
 }
